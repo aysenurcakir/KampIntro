@@ -19,11 +19,20 @@ namespace GenericsIntro
             for (int i = 0; i < tempArray.Length; i++)
             {
                 items[i] = tempArray[i];
-
+                //hi
             }
 
             items[items.Length - 1] = item;
+            
 
+        } 
+
+        public int Length
+        {
+            get { return items.Length; }
         }
-    }
+
+      
+
+    } 
 }
