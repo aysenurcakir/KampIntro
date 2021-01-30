@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{FFA72F2A-64D0-4898-B8AD-9875AB677320}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{E2C954C6-4491-48EB-A605-314A29449BA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{E2C954C6-4491-48EB-A605-314A29449BA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{A01717B8-A8EF-41D2-B2F4-01071DBC5478}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{A01717B8-A8EF-41D2-B2F4-01071DBC5478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{57D1EBDE-AE58-41EE-AF3E-5058472E16DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A01717B8-A8EF-41D2-B2F4-01071DBC5478}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A01717B8-A8EF-41D2-B2F4-01071DBC5478}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A01717B8-A8EF-41D2-B2F4-01071DBC5478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D1EBDE-AE58-41EE-AF3E-5058472E16DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D1EBDE-AE58-41EE-AF3E-5058472E16DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D1EBDE-AE58-41EE-AF3E-5058472E16DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D1EBDE-AE58-41EE-AF3E-5058472E16DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
